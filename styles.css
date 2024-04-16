@@ -1,0 +1,65 @@
+body{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: lightslategrey;
+    background-color: whitesmoke
+}
+ol{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: mediumslateblue;
+}
+ul{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+    color:lightslategray
+}
+h3{
+    font-family: sans-serif;
+    font-size: 25px;
+    font-weight: bolder;
+    color: mediumslateblue;
+}
+a{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: lightslategray
+}
+p{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: lightslategray;
+    font-weight: 400
+}
+.centered-image {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -101%);
+}
+.common {
+    background-color: azure;
+    border: 2px solid white;
+    position: absolute
+}
+.header {
+    top: 5px;
+    left: 0px;
+    right: 0px;
+    height: 90px;
+}
+.mainbody {
+    top: 110;
+    left: 705px;
+    right: 0px;
+    bottom: 118px;
+}
+.footer {
+    top: 100px;
+    left: 0px;
+    right: 639px;
+    bottom: 118px;
+}

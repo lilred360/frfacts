@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    background-color: beige
+}
+.common {
+    background-color: azure;
+    border: 2px solid white;
+    position: absolute
+}
+.header {
+    top: 5px;
+    left: 0px;
+    right: 0px;
+    height: 100px;
+}
+.mainbody {
+    top: 110px;
+    left: 0px;
+    right: 0px;
+    bottom: 135px;
+}
+.footer {
+    top: 500px;
+    left: 0px;
+    right: 0px;
+    bottom: 2px;
+}
